@@ -4,7 +4,7 @@ Topic: Optimization
 
 Course: CV5101 – Modelling, Uncertainty, and Data for Engineers
 
-## Checked by Chenna Mohith, score= 95/100 
+## Checked by Chenna Mohith, score= 100/100 
 The GA for different guesses should be plotted in single plot.
 *Written by: `pradeep, prakash, and sudheendra`*
 
